@@ -1,4 +1,4 @@
-# vue-router-01
+# D3.js chart on vue.js
 
 > A Vue.js project
 
